@@ -1,0 +1,1 @@
+This is the directory that saves the client side code of the project
